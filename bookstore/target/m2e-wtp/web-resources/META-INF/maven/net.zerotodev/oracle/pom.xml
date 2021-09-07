@@ -5,7 +5,7 @@ xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/
 
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>shop.jarviis</groupId>
+	<groupId>net.zerotodev</groupId>
 	<artifactId>oracle</artifactId>
 	<name>bookstore</name>
 	<packaging>war</packaging>
