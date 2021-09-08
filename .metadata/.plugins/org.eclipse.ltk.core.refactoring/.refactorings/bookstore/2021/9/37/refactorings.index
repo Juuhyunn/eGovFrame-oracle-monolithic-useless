@@ -2,3 +2,57 @@
 1630993373920	Move 'spring' to 'META-INF'
 1630994690233	Move 'servlet-context.xml' to 'spring'
 1630994692557	Delete element
+1631070227269	Rename package 'shop.jarviis.oracle.user.mapper.java'
+1631070300730	Rename package 'shop.jarviis.oracle.user.domain'
+1631070307873	Delete element
+1631070383200	Delete element
+1631073242432	Rename package 'shop.jarviis.oracle.user.mapper'
+1631073249701	Rename package 'shop.jarviis.oracle.user.service'
+1631073317070	Copy package
+1631073366693	Copy package
+1631073386096	Delete elements
+1631073404497	Delete elements
+1631073461805	Copy package
+1631073465118	Delete element
+1631073489921	Copy package
+1631073509852	Rename package 'shop.jarviis.oracle.book.service.controller'
+1631073530277	Copy package
+1631073539440	Copy package
+1631073550679	Rename package 'shop.jarviis.oracle.book.service.mapper'
+1631073557789	Copy package
+1631073644453	Rename type 'UserMapper'
+1631073650524	Rename type 'UserService'
+1631073656025	Rename type 'UserServiceImpl'
+1631073690257	Delete element
+1631077585910	Copy package
+1631077591586	Delete element
+1631077595591	Delete element
+1631077621296	Copy package
+1631077633420	Copy package
+1631077638293	Rename package 'shop.jarviis.oracle.orders.cotrollwe'
+1631077645794	Copy package
+1631077753960	Rename package 'shop.jarviis.oracle.publisher'
+1631077768466	Copy package
+1631077774503	Copy package
+1631077778704	Copy package
+1631077791993	Copy package
+1631077860840	Delete element
+1631077871470	Copy package
+1631077915239	Rename type 'PublisherDITO'
+1631078268342	Delete element
+1631078309353	Delete element
+1631078312546	Delete element
+1631078313591	Delete element
+1631078339586	Rename package 'shop.jarviis.oracle.customer.mapepr'
+1631078343895	Delete element
+1631078461924	Rename type 'Book'
+1631078712659	Rename package 'shop.jarviis.oracle.orders.cotroller'
+1631078718601	Rename type 'OrdersController'
+1631078723228	Rename package 'shop.jarviis.oracle.orders.domain'
+1631078728435	Rename type 'OrdersDTO'
+1631078732372	Rename package 'shop.jarviis.oracle.orders.mapper'
+1631078736636	Rename type 'OrdersMapper'
+1631078740256	Rename package 'shop.jarviis.oracle.orders.service'
+1631078745135	Rename type 'OrdersService'
+1631078749714	Rename type 'OrdersServiceImpl'
+1631078767804	Rename package 'shop.jarviis.oracle.orders.mapper'
