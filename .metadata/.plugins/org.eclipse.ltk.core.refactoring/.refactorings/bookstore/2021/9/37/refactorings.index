@@ -67,3 +67,12 @@
 1631156898873	Delete element
 1631156950927	Move 'mapper' to 'oracle'
 1631156974726	Delete element
+1631157243667	Delete element
+1631157272887	Move 'BookMapper.xml' to 'mappers'
+1631157281377	Move 'CustomerMapper.xml' to 'mappers'
+1631157284768	Move 'OrderMapper.xml' to 'mappers'
+1631157287201	Move 'PublisherMapper.xml' to 'mappers'
+1631157289938	Delete element
+1631157291232	Delete element
+1631157298256	Delete element
+1631157299753	Delete element
