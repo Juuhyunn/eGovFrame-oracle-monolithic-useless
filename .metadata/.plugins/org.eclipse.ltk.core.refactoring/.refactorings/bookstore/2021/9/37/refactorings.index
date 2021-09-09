@@ -56,3 +56,14 @@
 1631078745135	Rename type 'OrdersService'
 1631078749714	Rename type 'OrdersServiceImpl'
 1631078767804	Rename package 'shop.jarviis.oracle.orders.mapper'
+1631156693749	Move compilation unit
+1631156702575	Move compilation unit
+1631156709758	Move compilation unit
+1631156714141	Move compilation unit
+1631156782617	Delete element
+1631156784804	Delete element
+1631156786533	Delete element
+1631156878989	Delete element
+1631156898873	Delete element
+1631156950927	Move 'mapper' to 'oracle'
+1631156974726	Delete element
